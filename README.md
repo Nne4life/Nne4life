@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Constance
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics Essentials
-- 💞️ I’m looking to collaborate on  Data Analytics employers
+- 💞️ I’m looking to collaborate on  Data Analytics employers and team.
 - 📫 How to reach me www.linkedin.com/in/umeh-constance-nnenna-805827292...
 
 <!---
